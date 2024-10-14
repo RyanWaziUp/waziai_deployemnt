@@ -1,0 +1,7 @@
+fastapi==0.115.2
+langchain_chroma==0.1.4
+langchain_community==0.3.2
+openai==1.51.2
+pydantic==2.9.2
+uvicorn==0.31.1
+sentence_transformers
